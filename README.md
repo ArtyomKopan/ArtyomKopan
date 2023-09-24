@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Artyom </h1>
+<h3 align="center">Student of the Programming Technologies in Saint Petersburg University 🇷🇺</h3>
 
 ## My Skill Set
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,6 +16,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomKopan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomKopan&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with me
+<a href="https://github.com/ArtyomKopan"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:artyom.kopan@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/artyom_kopan"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <!--
 **ArtyomKopan/ArtyomKopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
