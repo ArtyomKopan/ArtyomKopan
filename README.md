@@ -12,9 +12,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomKopan&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomKopan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomKopan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomKopan&hide=TeX)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ArtyomKopan/ArtyomKopan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
